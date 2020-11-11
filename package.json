@@ -1,6 +1,6 @@
 {
   "name": "@dra2020/topojson-simplify",
-  "version": "3.0.101",
+  "version": "3.0.102",
   "description": "Topology-preserving simplification and filtering for TopoJSON.",
   "keywords": [
     "topojson",
